@@ -13,6 +13,7 @@
 <h1>Hello, YOGESH! i have made some important changes be careful</h1>
 >>>>>>> 30383ac1a3ec0b298de0ba9721f7a7e45d72fada
     <h2>sunnni</h2>
+<h2>some changes are important raa sunnni</h2>
     <p>This is a dummy HTML page.</p>
 </body>
 </html>
